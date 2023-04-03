@@ -1,0 +1,17 @@
+{
+  "name": "fdiazpaccot",
+  "version": "2.2.0",
+  "type": "module",
+  "private": true,
+  "homepage": "https://www.franciscodiazpaccot.dev/",
+  "author": {
+    "name": "Francisco Diaz Paccot",
+    "email": "fran.diazpaccot@gmail.com",
+    "url": "https://www.franciscodiazpaccot.dev/"
+  },
+  "dependencies": {
+    "glob": "^9.3.4",
+    "lighthouse": "^10.1.0",
+    "yargs": "^17.7.1"
+  }
+}
